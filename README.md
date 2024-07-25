@@ -17,7 +17,7 @@ This image shows the output of the classification of the FacemaskAI, correctly c
 
 This image shows the output of the classification of the FacemaskAI, correctly classifying the person not wearing a mask into the nomask class with 90.06% certainty. Since the image is small, it cuts out the statment the indicates the class, next to this image is the terminal statment which shows that it belongs to class #1 (nomask).
 
-Images used for training gotten from: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
+Dataset link: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
 
 # resnet18.onnx file
 
