@@ -13,6 +13,10 @@ The algorithm works as a classification neural network I used transfer learning 
 
 This image shows the output of the classification of the FacemaskAI, correctly classifying the person wearing a mask into the mask class with an 84.42% certainty.
 
+![image](https://github.com/user-attachments/assets/01071dec-611f-424a-93db-aef31e136d80)
+
+This image shows the output of the classification of the FacemaskAI, correctly classifying the person not wearing a mask into the nomask class with 90.06% certainty. Since the image is small, it cuts out the statment the indicates the class, besides this image shows the terminal showing that it belongs to class #1 (nomask).
+
 Images used for training gotten from: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
 
 
