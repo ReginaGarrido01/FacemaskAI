@@ -29,6 +29,6 @@ Link to resnet18.onnx file: https://drive.google.com/file/d/1vlwkid4ldrQ3rbp_vfL
 2.  Navigate to the `/home/nvidia/jetson-inference/python/training/classification`
 3. Set bash enviorment variables `NET=models/mask_nomask and DATASET=data/mask_nomask`
 4. Run the command `imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/(chose between mask or nomask)/(imageofmaskfromtestdata.png) (nameofwhereitwillbesaved.png)`
-5. The file will now appeare in /home/nvidia/jetson-inference/python/training/classification
+5. The file will now appeare in `/home/nvidia/jetson-inference/python/training/classification`
 
 Link to youtube demo:
