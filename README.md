@@ -13,6 +13,9 @@ The algorithm works as a classification neural network I used transfer learning 
 
 This image shows the output of the classification of the FacemaskAI, correctly classifying the person wearing a mask into the mask class with an 84.42% certainty.
 
+Images used for training gotten from: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
+
+
 # Running this project
 
 1. Navigate to the /home/nvidia/jetson-inference/python/training/classification
