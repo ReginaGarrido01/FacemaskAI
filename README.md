@@ -19,6 +19,11 @@ This image shows the output of the classification of the FacemaskAI, correctly c
 
 Images used for training gotten from: https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
 
+# resnet18,onnx file
+
+Link to resnet18.onnx file: https://drive.google.com/file/d/1vlwkid4ldrQ3rbp_vfLjKWtcGMw4R80l/view?usp=sharing
+
+
 
 # Running this project
 
