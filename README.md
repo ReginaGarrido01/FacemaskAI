@@ -10,6 +10,7 @@ The algorithm works as a classification neural network I used transfer learning 
 
 
 ![themasktest](https://github.com/user-attachments/assets/1f5584bf-464a-49b6-bad4-4b24298f52d9)
+
 This image shows the output of the classification of the FacemaskAI, correctly classifying the person wearing a mask into the mask class with an 84.42% certainty.
 
 # Running this project
