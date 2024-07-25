@@ -2,7 +2,7 @@
 
 FacemaskAI is an algorithm that receives a picture of a person and outputs whether or they have a facemask or not.
 
-I developed this AI in order to solve the problem of disease and viral spread. Facemasks provide a physical barrier between pathogens and people, effectively preventing more infection. Since the beginning of the 2020 global coronavirus pandemic, masks have become very present in our lives. Many times they were mandatory to enter places. Since the end of the pandemic, mask usage has decreased, but they are still required in other areas, such as hospitals, doctors offices, and pedratrician units, amongst others. FacemaskAI will indicate whether a person is following the mask guidelines; this making a safer emviorment.
+I developed this AI in order to solve the problem of disease and viral spread. Facemasks provide a physical barrier between pathogens and people, effectively preventing more infection. Since the beginning of the 2020 global coronavirus pandemic, masks have become very present in our lives. Many times they were mandatory to enter places. Since the end of the pandemic, mask usage has decreased, but they are still required in other areas, such as hospitals, doctors offices, and pedratrician units, amongst others. FacemaskAI will indicate whether a person is following the mask guidelines; this making a safer enviorment.
 
 # The Algorithm
 
